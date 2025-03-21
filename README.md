@@ -15,9 +15,17 @@ Role: Designed UI, implemented front-end logic, and integrated API interactions.
 
 Outcome: Enhanced user engagement with an intuitive and interactive experience.
 
-Image:
+
+Screenshot:
+
 
 <img width="959" alt="Screenshot 2025-03-21 114347" src="https://github.com/user-attachments/assets/b0afeff6-1f07-4e5a-97d0-72f5a8e25d70" />
+
+
+
+
+
+
 
 Screen recording:
 
